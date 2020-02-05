@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomKeyboard</string>
+    
+    
+    <string name="first_text">Привет</string>
+    <string name="second_text">\t Чтобы зарегистрироваться,\n введи свой номер телефона </string>
+    <string name="button_continue">Продолжить</string>
+</resources>
